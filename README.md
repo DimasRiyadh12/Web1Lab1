@@ -24,19 +24,19 @@ HTML memiliki struktur yang fleksibel, tanpa lojik serta toleran terhadap kesala
 </html>
 
 
-## Document Type Declaration (DTD)
-Sebagai standar versi dokumen W3C yang digunakan sebagai representasi setiap elemen pada dokumen Web.
-Contoh DTD:
+## Tag HTML
+Tag adalah sebauh penanda awalan dan akhiran dari sebuah elemen di HTML. Tag dibuat dengan kurung siku (<...>), lalu di dalamnya berisi nama tag dan kadang juga ditambahkan dengan atribut.
+Contoh: <p>, <a>, <body>, <head>, dan sebagainya.
+Tag selalu ditulis berpasangan. Ada tag pembuka dan ada tag penutupnya. Namun, ada juga beberapa tag yang tidak memiliki pasangan penutup.
+Contoh: <br/>,  <hr/>,  <input/>,  <img/>, dan sebagainya.
 
-1.	<!DOCTYPE	HTML	PUBLIC	"-//W3C//DTD	HTML	4.01	Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-
-2.	<!DOCTYPE	html	PUBLIC	"-//W3C//DTD	XHTML	1.0	Transitional//EN" "http://www.w3.org/TR/xhtml1  /DTD/xhtml1  -  transitional.dtd">
-
-3.	<!DOCTYPE  html>
-
-
-Standar tipe dokumen tersebut dapat digunakan untuk validasi elemen halaman Web.
-
-Ini adalah tampilan Praktikum Pemrograman Web
+Ini contoh tampilan Praktikum Pemrograman Web :
 
 ![img1](screenshot/s1.png)
+
+
+contoh tampilan praktikum lainnya :
+
+! [img2](screenshot/s2.png)
+
+## Sekian dari saya terima kasih
