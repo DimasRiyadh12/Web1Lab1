@@ -39,4 +39,4 @@ Standar tipe dokumen tersebut dapat digunakan untuk validasi elemen halaman Web.
 
 Ini adalah tampilan Praktikum Pemrograman Web
 
-![img1](screenshot/s1.PNG)
+![img1](screenshot/s1.png)
